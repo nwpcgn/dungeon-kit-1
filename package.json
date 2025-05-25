@@ -61,5 +61,9 @@
 	},
 	"keywords": [
 		"svelte"
-	]
+	],
+	"dependencies": {
+		"rot-js": "^2.2.1",
+		"svelte-canvas": "^2.0.2"
+	}
 }
